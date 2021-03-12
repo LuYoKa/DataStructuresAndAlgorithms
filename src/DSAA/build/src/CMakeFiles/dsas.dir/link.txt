@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdsas.a  CMakeFiles/dsas.dir/2_array/k_array.cpp.o
+/usr/bin/ranlib libdsas.a

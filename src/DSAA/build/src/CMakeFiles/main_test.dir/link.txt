@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main_test.dir/2_array/k_array.cpp.o CMakeFiles/main_test.dir/main_test.cpp.o  -o main_test 

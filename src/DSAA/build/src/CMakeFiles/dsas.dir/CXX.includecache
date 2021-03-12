@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kang/MyGit/DataStructuresAndAlgorithms/src/DSAA/src/2_array/k_array.cpp
+k_array.h
+/home/kang/MyGit/DataStructuresAndAlgorithms/src/DSAA/src/2_array/k_array.h
+
+/home/kang/MyGit/DataStructuresAndAlgorithms/src/DSAA/src/2_array/k_array.h
+iostream
+-
+
